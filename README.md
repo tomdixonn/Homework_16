@@ -30,7 +30,7 @@ Enter the IP address for `demo.testfire.net` into Domain Dossier and answer the 
 - Install the Recon module `xssed`. 
 - Set the source to `demo.testfire.net`. 
 - Run the module. 
- (Images/recon-ng)
+(https://github.com/tomdixonn/Homework_16/blob/main/recon-ng.JPG)
 
 Is Altoro Mutual vulnerable to XSS: 
 
