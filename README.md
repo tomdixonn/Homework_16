@@ -33,7 +33,7 @@ Enter the IP address for `demo.testfire.net` into Domain Dossier and answer the 
 
 - ![alt text](https://github.com/tomdixonn/Homework_16/blob/main/recon-ng.JPG)
 
-- Is Altoro Mutual vulnerable to XSS: 
+- Is Altoro Mutual vulnerable to XSS: _**Yes**_
 
 ![alt text](https://github.com/tomdixonn/Homework_16/blob/main/report.JPG)
 
