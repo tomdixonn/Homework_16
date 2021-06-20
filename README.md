@@ -6,7 +6,7 @@
 - Using Google, can you identify who the Chief Executive Officer of Altoro Mutual is: 
 `site:altoromutual.com intext:Chief Executive Officer` _**Karl Fitzgerald is the Chief Executive Officer.**_
 
-- How can this information be helpful to an attacker: _**The google dorking techniques help find potential targets alot quicker further enumaration on this target could be useful in planning a attack.**_
+- How can this information be helpful to an attacker: _**The google dorking techniques help find potential targets alot quicker and further enumaration on this target could be useful in planning a attack.**_
 
 
 #### Step 2: DNS and Domain Discovery
