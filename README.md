@@ -4,7 +4,7 @@
 
 
 - Using Google, can you identify who the Chief Executive Officer of Altoro Mutual is: 
-`site:altoromutual.com intext:Chief Executive Officer`
+`site:altoromutual.com intext:Chief Executive Officer` _**Karl Fitzgerald is the Chief Executive Officer.**_
 
 - How can this information be helpful to an attacker: _**The google dorking techniques help find potential targets alot quicker further enumaration on this target could be useful in planning a attack.**_
 
@@ -13,7 +13,7 @@
 
 Enter the IP address for `demo.testfire.net` into Domain Dossier and answer the following questions based on the results:
 
-  1. Where is the company located: _**US**_
+  1. Where is the company located: _**Sunnyvale, CA 94085 US**_
 
   2. What is the NetRange IP address: _**65.61.137.64 - 65.61.137.127**_
 
