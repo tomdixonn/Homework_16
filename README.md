@@ -49,7 +49,7 @@ Your client has asked that you help identify any vulnerabilities with their file
 ![alt text](https://github.com/tomdixonn/Homework_16/blob/main/scan3.JPG)
 - Zenmap vulnerability script command: 
 
-- Once you have identified this vulnerability, answer the following questions for your client:
+- Once you have identified this vulnerability, answer the following questions for your client: `nmap -p 139,445 -oX enum.xml --script samba-vuln-cve-2012-1182,smb-enum-shares 192.168.0.10`
   1. What is the vulnerability:
 
   2. Why is it dangerous:
