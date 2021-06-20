@@ -52,11 +52,11 @@ Your client has asked that you help identify any vulnerabilities with their file
 
 ![alt text](https://github.com/tomdixonn/Homework_16/blob/main/enum.JPG)
 - Once you have identified this vulnerability, answer the following questions for your client: 
-  1. What is the vulnerability: _**I could not find any vulnerabilty based on an exploit but I did find that some samba shares have**_ `Anonymous access: READ/WRITE`
+  1. What is the vulnerability: _**I could not find any vulnerabilty based on an exploit but I did find that some samba shares have**_ `Anonymous access: READ/WRITE`.
 
-  2. Why is it dangerous: _**This is dangerous because it allows attackers to potentially access sensitive information. Also files could be edited/added to contain malicious content**_
+  2. Why is it dangerous: _**This is dangerous because it allows attackers to potentially access sensitive information. Also files could be edited/added to contain malicious conten.t**_
 
-  3. What mitigation strategies can you recommendations for the client to protect their server: _**All shares should be secured with stricter access controls such as making them only available to users with a username and password**_
+  3. What mitigation strategies can you recommendations for the client to protect their server: _**All shares should be secured with stricter access controls such as making them only available to users with a username and password.**_
 
 ---
 © 2020 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.  
