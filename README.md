@@ -46,7 +46,7 @@ Your client has asked that you help identify any vulnerabilities with their file
 - Command for Zenmap to run a service scan against the Metasploitable machine: `nmap -sV 192.168.0.10`
 
  - Bonus command to output results into a new text file named `zenmapscan.txt`: 
-![alt text](https://github.com/tomdixonn/Homework_16/blob/main/scan.JPG)
+![alt text](https://github.com/tomdixonn/Homework_16/blob/main/scan2.JPG)
 - Zenmap vulnerability script command: 
 
 - Once you have identified this vulnerability, answer the following questions for your client:
