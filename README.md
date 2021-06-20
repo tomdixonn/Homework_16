@@ -56,7 +56,7 @@ Your client has asked that you help identify any vulnerabilities with their file
 
   2. Why is it dangerous: _**This is dangerous because it allows attackers to potentially access sensitive information. Also files could be edited/added to contain malicious content**_
 
-  3. What mitigation strategies can you recommendations for the client to protect their server: _**All shares should be secured with sricter access controls such as making them only available to users with a username and password**_
+  3. What mitigation strategies can you recommendations for the client to protect their server: _**All shares should be secured with stricter access controls such as making them only available to users with a username and password**_
 
 ---
 © 2020 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.  
