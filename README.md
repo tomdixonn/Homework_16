@@ -45,7 +45,7 @@ Your client has asked that you help identify any vulnerabilities with their file
 
 - Command for Zenmap to run a service scan against the Metasploitable machine: `nmap -sV 192.168.0.10 -oX scan3.xml`
 
- - Bonus command to output results into a new text file named `zenmapscan.txt`: _**I made a html report instead**_
+ - Bonus command to output results into a new text file named `zenmapscan.txt`: _**I made a html report instead.**_
 
 ![alt text](https://github.com/tomdixonn/Homework_16/blob/main/scan3.JPG)
 - Zenmap vulnerability script command: `nmap -p 139,445 -oX enum2.xml --script samba-vuln-cve-2012-1182,smb-enum-shares --script-args vulns.showall 192.168.0.10`
